@@ -1,0 +1,18 @@
+.d-flex button {
+    margin: 1.5em 0.6em;
+    padding: 0.5em 0.6em;
+}
+
+.d-flex table {
+    /* margin: 1em 10em; */
+    width: 80%;
+    margin-top: 0.6em;
+}
+
+.edit {
+    color: lightsalmon;
+    cursor: pointer;
+}
+
+
+/* {} */
